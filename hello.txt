@@ -1,0 +1,9 @@
+This is a test file
+to try to understand git 
+again
+working on a new file
+lifes good
+eat apples
+and drink fuze tea also
+very important
+
