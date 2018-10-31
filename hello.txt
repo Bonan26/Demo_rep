@@ -2,8 +2,8 @@ This is a test file
 to try to understand git 
 again
 working on a new file
-lifes good
+life's good but not so bad
 eat apples
-and drink fuze tea also
+and drink tea also
 very important
 
